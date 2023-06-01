@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/roweb/static/css/main.67c28bc8.css",
+    "main.js": "/roweb/static/js/main.3c366610.js",
+    "static/js/787.3e128b3f.chunk.js": "/roweb/static/js/787.3e128b3f.chunk.js",
+    "index.html": "/roweb/index.html",
+    "main.67c28bc8.css.map": "/roweb/static/css/main.67c28bc8.css.map",
+    "main.3c366610.js.map": "/roweb/static/js/main.3c366610.js.map",
+    "787.3e128b3f.chunk.js.map": "/roweb/static/js/787.3e128b3f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.67c28bc8.css",
+    "static/js/main.3c366610.js"
+  ]
+}
